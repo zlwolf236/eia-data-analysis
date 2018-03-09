@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.5.2 (/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/Library/Frameworks/Python.framework/Versions/3.5/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/Library/Python/3.5/lib/python/site-packages" />
+            <root type="simple" url="file:///Library/Frameworks/Python.framework/Versions/3.5/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharmCE2017.1/python_stubs/776880377" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,23 @@
+2200
+30000
+60000
+1.005
+1.009
+1.005
+120
+200
+200
+0.005
+
+
+
+maxInventory = 2200
+support = 30000
+ressistance = 60000
+bidDev = 1.005  #This is to replace quoteDev for Bid
+askDev = 1.009  #This is to replace quoteDev for Ask
+quoteDev = 1.005
+orderSize = 120
+bidOrderSize = 200
+askOrderSize = 200
+quoteSpreadLimit = 0.005
